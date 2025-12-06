@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {61573657085244
     "email": "abdullahalamin2011@gmail.com",
     "password": "",
     "2FASecret": "",
@@ -24,7 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your Hinata Baby",
+  "nickNameBot": "Bot of Leaf Village",
   "prefix": ".",
   "database": {
     "type": "sqlite",
